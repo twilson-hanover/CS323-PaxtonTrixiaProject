@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CS323PaxtonTrixiaProject</string>
+    <string name="name">Name: </string>
+    <string name="dob">DOB: </string>
+    <string name="enter">Enter</string>
+    <string name="find_dog">Find dog!!!</string>
+    <string name="favorite">Your favorites: </string>
+    <string name="dog_breeds">Dog Breeds</string>
+    <string name="husky">Husky</string>
+    <string name="labrador">Labrador</string>
+    <string name="corgi">Corgi</string>
 </resources>
