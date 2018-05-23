@@ -6,11 +6,17 @@
     <string name="find_dog">Find dog!!!</string>
     <string name="favorite">Your favorites: </string>
     <string name="dog_breeds">Dog Breeds</string>
-    <string name="husky">Husky</string>
-    <string name="labrador">Labrador</string>
-    <string name="corgi">Corgi</string>
     <string name="dogFinder_logo">Dog Finder Logo</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="action_bar_settings">Settings</string>
     <string name="title_activity_dog_breeds">DogBreeds</string>
+    <string-array name="options">
+        <item>Husky</item>
+        <item>Labrador</item>
+        <item>Corgi</item>
+        <item>German Shepherd</item>
+        <item>Pitbull</item>
+        <item>Beagle</item>
+    </string-array>
+    <string name="dogs">Dogs Picture</string>
 </resources>
