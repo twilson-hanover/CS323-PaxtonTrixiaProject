@@ -9,9 +9,9 @@ public class Dog {
     //dog is an array of Dog
     public static final Dog[] dog = {
             new Dog("Husky", "Loyal, Outgoing, Mischievous", R.drawable.husky),
-            new Dog("Labrador", "Friendly, Active, Outgoing", R.drawable.labrador),
+            new Dog("Labrador", "Friendly, Active, Outgoing", R.drawable.lab),
             new Dog("Corgi", "Affectionate, Smart, Alert", R.drawable.corgi),
-            new Dog("German Shepherd", "Confident, Courageous, Smart", R.drawable.german_shepherd),
+            new Dog("German Shepherd", "Confident, Courageous, Smart", R.drawable.germanshep),
             new Dog("Pitbull", "Confident, Smart, Good-Natured", R.drawable.pitbull),
             new Dog("Beagle", "Friendly, Curious, Merry", R.drawable.beagle)
     };

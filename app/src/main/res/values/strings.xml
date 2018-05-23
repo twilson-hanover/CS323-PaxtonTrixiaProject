@@ -19,4 +19,5 @@
         <item>Beagle</item>
     </string-array>
     <string name="dogs">Dogs Picture</string>
+    <string name="title_activity_dog">DogActivity</string>
 </resources>
