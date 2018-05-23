@@ -18,8 +18,10 @@
         </activity>
         <activity
             android:name=".HomeActivity"
-            android:label="@string/title_activity_home">
-        </activity>
+            android:label="@string/title_activity_home"></activity>
+        <activity
+            android:name=".DogBreeds"
+            android:label="@string/title_activity_dog_breeds"></activity>
     </application>
 
 </manifest>
