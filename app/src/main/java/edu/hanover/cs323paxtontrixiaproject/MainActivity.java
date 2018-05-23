@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
     }
 
+    //Call onEnter() when button is clicked
     public void onEnter(View view) {
         Intent intent = new Intent(this, HomeActivity.class);
         startActivity(intent);
