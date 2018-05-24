@@ -16,7 +16,7 @@ public class Dog {
             new Dog("Beagle", "Friendly, Curious, Merry", R.drawable.beagle)
     };
 
-    //Each Drink has a name, description, and an image resource
+    //Each Dog has a name, description, and an image resource
     private Dog(String name, String description, int imageResourceId) {
         this.name = name;
         this.description = description;

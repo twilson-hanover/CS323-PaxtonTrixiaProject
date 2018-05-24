@@ -4,7 +4,7 @@
     <string name="dob">DOB: </string>
     <string name="enter">Enter</string>
     <string name="find_dog">Find dog!!!</string>
-    <string name="favorite">Your favorites: </string>
+    <string name="check_availability">Check Availability</string>
     <string name="dog_breeds">Dog Breeds</string>
     <string name="dogFinder_logo">Dog Finder Logo</string>
     <string name="title_activity_home">HomeActivity</string>

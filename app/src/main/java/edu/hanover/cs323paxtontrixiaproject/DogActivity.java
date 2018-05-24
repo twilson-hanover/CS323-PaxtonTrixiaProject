@@ -2,10 +2,11 @@ package edu.hanover.cs323paxtontrixiaproject;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.widget.CheckBox;
 import android.widget.TextView;
 import android.widget.ImageView;
-
-import org.w3c.dom.Text;
+import android.widget.Toast;
+import android.view.View;
 
 public class DogActivity extends Activity {
 
@@ -32,6 +33,11 @@ public class DogActivity extends Activity {
         //Populate the dog description
         TextView description = (TextView)findViewById(R.id.description);
         description.setText(dog.getDescription());
+    }
+
+    public void onCheck(View view) {
+        Toast toast = Toast.makeText(this, "Dog is Available!", Toast.LENGTH_SHORT);
+        toast.show();
     }
 
 }
