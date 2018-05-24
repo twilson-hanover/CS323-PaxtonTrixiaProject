@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.content.Intent;
 import android.view.Menu;
+import android.content.res.Configuration;
 
 public class MainActivity extends Activity {
 
